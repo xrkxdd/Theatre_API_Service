@@ -1,4 +1,4 @@
-Theatre-API-Service
+Theatre_API_Service
 
 Before you can run this project, make sure you have the following installed:
 
